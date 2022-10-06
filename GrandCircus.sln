@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit2NumberAnalyzerLab", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit2BasicLoopsLab2", "Unit2BasicLoopsLab2\Unit2BasicLoopsLab2.csproj", "{348D524E-FEAA-459B-9C3B-3845289DA967}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit2BasicLoopsLab3", "Unit2BasicLoopsLab3\Unit2BasicLoopsLab3.csproj", "{84A24CD1-1AD7-4BDD-B723-44D16EF42510}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{348D524E-FEAA-459B-9C3B-3845289DA967}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{348D524E-FEAA-459B-9C3B-3845289DA967}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{348D524E-FEAA-459B-9C3B-3845289DA967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A24CD1-1AD7-4BDD-B723-44D16EF42510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A24CD1-1AD7-4BDD-B723-44D16EF42510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A24CD1-1AD7-4BDD-B723-44D16EF42510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A24CD1-1AD7-4BDD-B723-44D16EF42510}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
