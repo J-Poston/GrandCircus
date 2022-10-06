@@ -1,0 +1,15 @@
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\bin\Debug\net6.0\Unit2BasicLoopsLab5.exe
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\bin\Debug\net6.0\Unit2BasicLoopsLab5.deps.json
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\bin\Debug\net6.0\Unit2BasicLoopsLab5.runtimeconfig.json
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\bin\Debug\net6.0\Unit2BasicLoopsLab5.dll
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\bin\Debug\net6.0\Unit2BasicLoopsLab5.pdb
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\obj\Debug\net6.0\Unit2BasicLoopsLab5.csproj.AssemblyReference.cache
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\obj\Debug\net6.0\Unit2BasicLoopsLab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\obj\Debug\net6.0\Unit2BasicLoopsLab5.AssemblyInfoInputs.cache
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\obj\Debug\net6.0\Unit2BasicLoopsLab5.AssemblyInfo.cs
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\obj\Debug\net6.0\Unit2BasicLoopsLab5.csproj.CoreCompileInputs.cache
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\obj\Debug\net6.0\Unit2BasicLoopsLab5.dll
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\obj\Debug\net6.0\refint\Unit2BasicLoopsLab5.dll
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\obj\Debug\net6.0\Unit2BasicLoopsLab5.pdb
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\obj\Debug\net6.0\Unit2BasicLoopsLab5.genruntimeconfig.cache
+C:\Users\John.Poston\GC\GrandCircus\Unit2BasicLoopsLab5\obj\Debug\net6.0\ref\Unit2BasicLoopsLab5.dll
