@@ -22,11 +22,17 @@
             while(rollAgain == true)
             {
                 int[] diceValues = RollDice(diceSides);
+                //int[] diceValues = new int[2] { 6, 6 };
+
                 string combo;
+
                 if(diceSides == 6)
                 {
                     combo = Get6SidedDiceCombo(diceValues[0], diceValues[1]);
                     Console.WriteLine(combo);
+                    if(diceValues.Sum() == 12) { Console.WriteLine("Craps"); }
+                    // added extra WriteLine() for possible value of 12
+                    // Get6SidedDiceCombo() is only allowed to return one string per requirements
                 }
 
                 else
@@ -65,7 +71,7 @@
             if (dice1 == 2 && dice2 == 1) { combo = "Ace Deuce"; }
             if (dice1 == 6 && dice2 == 6) { combo = "Box Cars"; }
             if (sum == 7 || sum == 11) { combo = "Win"; }
-            if (sum == 2 || sum == 3 || sum == 12) { combo = "Craps"; }
+            if (sum == 2 || sum == 3 /*|| sum == 12*/) { combo = "Craps"; }
             return combo;
         }
 
