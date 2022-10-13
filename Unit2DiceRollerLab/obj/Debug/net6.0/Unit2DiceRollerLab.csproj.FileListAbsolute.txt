@@ -1,0 +1,15 @@
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\bin\Debug\net6.0\Unit2DiceRollerLab.exe
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\bin\Debug\net6.0\Unit2DiceRollerLab.deps.json
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\bin\Debug\net6.0\Unit2DiceRollerLab.runtimeconfig.json
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\bin\Debug\net6.0\Unit2DiceRollerLab.dll
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\bin\Debug\net6.0\Unit2DiceRollerLab.pdb
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\obj\Debug\net6.0\Unit2DiceRollerLab.csproj.AssemblyReference.cache
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\obj\Debug\net6.0\Unit2DiceRollerLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\obj\Debug\net6.0\Unit2DiceRollerLab.AssemblyInfoInputs.cache
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\obj\Debug\net6.0\Unit2DiceRollerLab.AssemblyInfo.cs
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\obj\Debug\net6.0\Unit2DiceRollerLab.csproj.CoreCompileInputs.cache
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\obj\Debug\net6.0\Unit2DiceRollerLab.dll
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\obj\Debug\net6.0\refint\Unit2DiceRollerLab.dll
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\obj\Debug\net6.0\Unit2DiceRollerLab.pdb
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\obj\Debug\net6.0\Unit2DiceRollerLab.genruntimeconfig.cache
+C:\Users\John.Poston\GC\GrandCircus\Unit2DiceRollerLab\obj\Debug\net6.0\ref\Unit2DiceRollerLab.dll

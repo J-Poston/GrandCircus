@@ -7,15 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit2BasicLoopsLab", "Unit2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit2NumberAnalyzerLab", "NumberAnalyzerLab\Unit2NumberAnalyzerLab.csproj", "{36F4156B-AF41-48B8-A2B9-DB9A93B6C0EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit2BasicLoopsLab2", "Unit2BasicLoopsLab2\Unit2BasicLoopsLab2.csproj", "{348D524E-FEAA-459B-9C3B-3845289DA967}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit2BasicLoopsLab2", "Unit2BasicLoopsLab2\Unit2BasicLoopsLab2.csproj", "{348D524E-FEAA-459B-9C3B-3845289DA967}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit2BasicLoopsLab3", "Unit2BasicLoopsLab3\Unit2BasicLoopsLab3.csproj", "{84A24CD1-1AD7-4BDD-B723-44D16EF42510}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit2BasicLoopsLab3", "Unit2BasicLoopsLab3\Unit2BasicLoopsLab3.csproj", "{84A24CD1-1AD7-4BDD-B723-44D16EF42510}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit2BasicLoopsLab4", "Unit2BasicLoopsLab4\Unit2BasicLoopsLab4.csproj", "{58843D49-0E58-40B5-ADB8-42FA145AB31D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit2BasicLoopsLab4", "Unit2BasicLoopsLab4\Unit2BasicLoopsLab4.csproj", "{58843D49-0E58-40B5-ADB8-42FA145AB31D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit2BasicLoopsLab5", "Unit2BasicLoopsLab5\Unit2BasicLoopsLab5.csproj", "{858A8CC4-0A4B-4862-A00E-D502C29DB452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit2BasicLoopsLab5", "Unit2BasicLoopsLab5\Unit2BasicLoopsLab5.csproj", "{858A8CC4-0A4B-4862-A00E-D502C29DB452}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit2BasicLoopsLab6", "Unit2BasicLoopsLab6\Unit2BasicLoopsLab6.csproj", "{F17BA5C2-F904-44D8-AB25-F2014A11402B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit2BasicLoopsLab6", "Unit2BasicLoopsLab6\Unit2BasicLoopsLab6.csproj", "{F17BA5C2-F904-44D8-AB25-F2014A11402B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit2DiceRollerLab", "Unit2DiceRollerLab\Unit2DiceRollerLab.csproj", "{DD0D69C2-89B8-49BE-9A1C-FE257F2EAC5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{F17BA5C2-F904-44D8-AB25-F2014A11402B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F17BA5C2-F904-44D8-AB25-F2014A11402B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F17BA5C2-F904-44D8-AB25-F2014A11402B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD0D69C2-89B8-49BE-9A1C-FE257F2EAC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0D69C2-89B8-49BE-9A1C-FE257F2EAC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD0D69C2-89B8-49BE-9A1C-FE257F2EAC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0D69C2-89B8-49BE-9A1C-FE257F2EAC5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
